@@ -1,0 +1,10 @@
+name: calculator_app
+description: A simple calculator app
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # ... any other dependencies
