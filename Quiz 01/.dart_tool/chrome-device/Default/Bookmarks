@@ -1,0 +1,115 @@
+{
+   "checksum": "363f91b1931876aa05dc2d193fc03352",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "133859514210000000",
+            "date_last_used": "0",
+            "guid": "a179f469-24b4-472f-8803-61adaeffdbec",
+            "id": "12",
+            "name": "알리익스프레스 - AliExpress",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://xn--o39an5b77ovja29cw4f71oba032db7f688b.com/best",
+            "visit_count": 0
+         } ],
+         "date_added": "13404416434372227",
+         "date_last_used": "0",
+         "date_modified": "133859514210000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13339188892652439",
+                  "date_last_used": "0",
+                  "guid": "b861d824-272f-4f14-a37a-5a9f51c3af25",
+                  "id": "8",
+                  "name": "Waiting for response from tamashaweb.com...",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://tamashaweb.com/asia-cup-2023",
+                  "visit_count": 0
+               } ],
+               "date_added": "13342895423478326",
+               "date_last_used": "0",
+               "date_modified": "13342895423478326",
+               "guid": "b268f6dd-398e-4743-869a-b84099a6ada7",
+               "id": "7",
+               "name": "Group 1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13342895423478283",
+            "date_last_used": "0",
+            "date_modified": "13342895423478283",
+            "guid": "b8180149-87fc-42c4-a44d-8229e7921146",
+            "id": "6",
+            "name": "Tabs set aside",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13339665714721128",
+            "date_last_used": "0",
+            "guid": "284d4848-40d0-4b4d-9a73-97c1fa344150",
+            "id": "9",
+            "name": "Kotlin Bootcamp for Programmers 1: Get started  |  Android Developers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.android.com/codelabs/kotlin-bootcamp-introduction#0",
+            "visit_count": 0
+         }, {
+            "date_added": "13347880189385836",
+            "date_last_used": "0",
+            "guid": "87cb84e9-6c04-45a4-8a72-0203dc68a580",
+            "id": "10",
+            "name": "CUOnline Student Portal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vhr-cms.comsats.edu.pk:8089/",
+            "visit_count": 0
+         }, {
+            "date_added": "13356637275095025",
+            "date_last_used": "0",
+            "guid": "6a35d6e0-6e08-4ade-9dc4-d088a4574c74",
+            "id": "11",
+            "name": "CUI Portal - Vehari",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vhr-cms.comsats.edu.pk/",
+            "visit_count": 0
+         } ],
+         "date_added": "13404416434372227",
+         "date_last_used": "0",
+         "date_modified": "13356637275095025",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13404416434372227",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBOPda2ZAQAAEgAqGElUK0FTeHM3V0ZwM29tajhlMjZ4M0E9PUgDoAYHEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDliOGYwNzVlLTliNjctNTRkMC05ZTcyLTBlYTJhOGQ4OTUzMhgAIAAoADDnuqimwTE4+sGopsExQPrBqKbBMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgJEqgBChw1L1VRTVFNVkR1R2dMb243TnA5S3RKSytIT009EiQyODRkNDg0OC00MGQwLTRiNGQtOWE3My05N2MxZmEzNDQxNTAYACAAKAAwlqX9/vAxOJu4/f7wMUCbuP3+8DFKHFVoa2dtaEgvVEFaOGNnUG1yMW81d0U0a2F5dz1aHyIdqjZnZFU4QXJqZHRodVl6UmRXam5BS2Z3MVQyaz1lU3qhw8I+AmAFEqwBCAgSpwEKHHpkcHlHd0FxT3p0TVltemt1WlZiSFpSSm0xdz0SJGI4NjFkODI0LTI3MmYtNGYxNC1hMzdhLTVhOWY1MWMzYWYyNRgAIAAoADCTpf3+8DE4uLf9/vAxQLi3/f7wMUocQnQ1bEZ2QTdQZkFjUjlaUEpnUGhIMmZDaDlNPVoeIhwwdVkycnlmNnNCTEpMbGJQRzkvcWNCaUx5eTQ9ZWTjkGDCPgJgBRKsAQgHEqcBChxBTHBoTXk5aFdObDc5eTF1MW9oYjJ5UFRpdG89EiRiMjY4ZjZkZC0zOThlLTQ3NDMtODY5YS1iODQwOTlhNmFkYTcYACAAKAAwkqX9/vAxOJi3/f7wMUCYt/3+8DFKHDhIZWRlOXhwaUZoUWFpMk9qalNyd2FWNGlBbz1aHiIcWS9mRTU4ZUdHUnJkQ0x4MzBmeXN0V1JJT2hRPWUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYTQ3OWFkYzQtZTUzMi01YzI1LTliNjQtNWViZDZhMTg3Y2U2GAAgACgAMOi6qKbBMTiXwqimwTFAl8KopsExShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEqwBCAYSpwEKHExLM0J3UTY4Tk1WSnFVNFB0eVpJN3VkT2pzbz0SJGI4MTgwMTQ5LTg3ZmMtNDJjNC1hNDRkLTgyMjllNzkyMTE0NhgAIAAoADCRpf3+8DE4+Lb9/vAxQPi2/f7wMUocK3JjaTdFM015ZlNFcko3M1kvcEVFQVcrRm9BPVoeIhxVWHJlOFVlYTJVYTFzVkFPcStGbENkM3ZBRXM9ZQAAAADCPgJgABKsAQgMEqcBChwxQWRNbEszQk5Zd3A0WUIzL1JPaXV5WThEa289EiRhMTc5ZjQ2OS0yNGI0LTQ3MmYtODgwMy02MWFkYWVmZmRiZWMYACAAKAAwuL784+UyONHC/OPlMkDRwvzj5TJKHGJJaElCQUpVUVlmWU1zM1Ryb201WFBEd2NuUT1aHiIcdWNqUjJGNzlySkpRamJGZWh5R1ptVVdaMHA4PWUAAAAAwj4CYAUSrQEICxKoAQocRDFLUEJqbmhDZm9sQlhsMndyM3NFYjNWOVhrPRIkNmEzNWQ2ZTAtNmUwOC00YWRlLTlkYzQtZDA4OGE0NTc0Yzc0GAAgACgAMJWl/f7wMTj6t/3+8DFA+rf9/vAxShwzakE3SE8vM1ZYMW9Zdk1BVlk5UTVaS09DU3M9Wh8iHepvekExN2N6TzBRd3hOVVhZTnkzR212RHZVclU9ZQAAAADCPgJgBRKtAQgKEqgBChxIR1ArVlJ0N1BLMzJDUUlxMlRRK0hnRjdsK1k9EiQ4N2NiODRlOS02YzA0LTQ1YTQtOGE3Mi0wMjAzZGM2OGE1ODAYACAAKAAwlKX9/vAxONe3/f7wMUDXt/3+8DFKHHdyRFFNSWxGQThXeGF2RTBNbUdOcWxnUjU2TT1aHyId1WE2ZFB0SUhWS3NFb0MydDRwRlA1MC9NQmFsMD1luhBZSMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGY0MzQxOGNlLTU3YmItNTFlMC05OGRmLWM1ZjY2NDhhMDBlNRgAIAAoADDtuqimwTE408KopsExQNPCqKbBMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
