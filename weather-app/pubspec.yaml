@@ -1,0 +1,22 @@
+name: weather_app
+description: A fully animated and amazing Weather App.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  intl: ^0.19.0
+  flutter_spinkit: ^5.2.1  # For loading animations
+  pull_to_refresh: ^2.0.0  # For pull-to-refresh
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
