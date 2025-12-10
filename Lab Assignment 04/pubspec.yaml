@@ -1,0 +1,28 @@
+name: assignment_4_pro
+description: Professional User Management App with Supabase.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Database
+  supabase_flutter: ^2.0.0
+  
+  # Date Formatting (Required for the Pro version)
+  intl: ^0.19.0
+  
+  # Icons
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
